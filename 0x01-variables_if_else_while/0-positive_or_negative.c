@@ -8,6 +8,7 @@
  */
 int main(void)
 {
+
 int n;
 
 strand(time(0));
@@ -21,5 +22,5 @@ else if (n == 0)
 else
 	printf("%d is negative\n", n);
 
-return (0);
+return (0i);
 }
