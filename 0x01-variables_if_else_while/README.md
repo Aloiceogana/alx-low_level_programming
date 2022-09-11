@@ -1,24 +1,42 @@
-0 - Write a script that runs a c file through the proccessor and the pre preprocessor and save the result into another file
+0 - This program will affect a random number to the varriable n each time it is executed. Compile the source code in order to print whwther the number stored in the varia
 
+ble n is positive or negative [Source codenhere]                                                                                                                          
 
+                                                                                                                                                                          
 
-1 - Write a script that generates the assembly code of a c code and save it in an output file.
+1 - This program will affect a random number to the varriable n each rime it is executed. Complete the source code in order to print the last digit of the number stored i
 
+n the varriable n. [Source code here]                                                                                                                                     
 
+                                                                                                                                                                          
 
-2 - write a script that compiles a c file but does not link.
+2 - Write a program that prints the alphabet, in lowercase, followed by a new line.                                                                                       
 
+                                                                                                                                                                          
 
+3 - Write a program that prints the alphabet, in lowercase, and then in uppercase, followed by a new line.                                                                
 
-3 - Write a script that compiles a c file and creates an executable named cisfun
+                                                                                                                                                                          
 
+4 - write a program that prints the alphabet, in lowercase, followed by a new line.                                                                                       
 
+                                                                                                                                                                          
 
-4 - Write a c prgram that prints exactly "Programming is like building a multilingual puzzle, folloewd by a new line.
+5 - write a program that prints all numbers of base 10, starting from 0, followed by a new line.                                                                          
 
+                                                                                                                                                                          
 
+6 - Write a program that prints all mumbers of base 10, starting from 0, followed by a new line.                                                                          
 
-5 - Write a c program that prints exactly with proper grammer , but the outcome is a piece of art,, followed by a new line.
+                                                                                                                                                                          
 
+7 - Write a program that prints the alphabet, in reverse order, in lowecase , followed by a new line.                                                                     
 
+                                                                                                                                                                          
+
+8 - Write a program that prints all the numbers of base 16, in lower case, followed by a new line.                                                                        
+
+                                                                                                                                                                          
+
+9 - Write a program that prints all possible combinztions of single-digit numbers.
 
