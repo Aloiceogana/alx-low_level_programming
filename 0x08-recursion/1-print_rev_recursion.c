@@ -2,7 +2,7 @@
 
 /**
  * _print_rev_recursion - prints a sring in reverse
- * @: string to be printed
+ * @s: string to be printed
  *
  * Return: void
  */
